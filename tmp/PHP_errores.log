@@ -1,0 +1,522 @@
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:14:45
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:14:45
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:14:45
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:14:48
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:14:48
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:14:48
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:44:57
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:45:00
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:45:00
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:45:00
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 02:45:06
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:24:04
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:24:11
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 45
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined variable: filtar
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:38:10
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:47:06
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:47:07
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:48:27
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:48:31
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:48:32
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:48:32
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:48:33
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:48:34
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:49:26
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:49:28
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:49:30
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:49:31
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:49:34
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:50:51
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:50:51
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 03:50:52
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 15
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:21:58
+archivo: C:\xampp\htdocs\app\class\Authorization.php
+line: 5
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:22:52
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:23:01
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:23:36
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:25:26
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:25:28
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:25:28
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:25:29
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:26:13
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:26:24
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:26:34
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 22
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:33:53
+archivo: C:\xampp\htdocs\app\controllers\userscontroller.php
+line: 23
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:40:24
+archivo: C:\xampp\htdocs\app\views\users\delete.php
+line: 3
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined variable: user
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:41:29
+archivo: C:\xampp\htdocs\app\views\users\delete.php
+line: 3
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined variable: user
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:43:20
+archivo: C:\xampp\htdocs\app\views\users\delete.php
+line: 3
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined variable: user
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:44:08
+archivo: C:\xampp\htdocs\app\class\ClassPDO.php
+line: 141
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: id
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:45:00
+archivo: C:\xampp\htdocs\app\class\ClassPDO.php
+line: 141
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: id
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:46:14
+archivo: C:\xampp\htdocs\app\class\ClassPDO.php
+line: 141
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined variable: user
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:48:55
+archivo: C:\xampp\htdocs\app\class\ClassPDO.php
+line: 141
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: id
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:50:38
+archivo: C:\xampp\htdocs\app\class\ClassPDO.php
+line: 141
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined variable: args
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:52:17
+archivo: C:\xampp\htdocs\app\class\ClassPDO.php
+line: 139
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Array to string conversion
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:52:45
+archivo: C:\xampp\htdocs\app\class\ClassPDO.php
+line: 139
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Array to string conversion
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:53:08
+archivo: C:\xampp\htdocs\app\class\ClassPDO.php
+line: 143
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Array to string conversion
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 05:55:03
+archivo: C:\xampp\htdocs\app\index.php
+line: 36
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Array to string conversion
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 07:11:08
+archivo: C:\xampp\htdocs\app\Controllers\UsersController.php
+line: 34
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 07:19:34
+archivo: C:\xampp\htdocs\app\Controllers\UsersController.php
+line: 34
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 07:37:49
+archivo: C:\xampp\htdocs\app\Controllers\UsersController.php
+line: 34
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
+<pre>-- ERROR NOTICE --
+fecha: 14-11-06 08:21:12
+archivo: C:\xampp\htdocs\app\Controllers\UsersController.php
+line: 34
+IP servidor: ::1
+IP usuario: ::1
+Mensaje: Undefined index: password
+-- ERROR NOTICE --
+</pre>
